@@ -1,0 +1,11 @@
+.countdown__title {
+    background-color: #ed1d24;
+}
+
+.countdown__timer {
+    background-color: #090c0c;
+}
+
+[data-before="Minutes"]:before, [data-before="Seconds"], [data-before="Seconds"] ~ div {
+    display: none;
+}
