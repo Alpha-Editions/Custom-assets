@@ -269,4 +269,3 @@ function appendChildren(parent, children) {
 }
 
 var _default = FlipDown;
-exports["default"] = _default;
